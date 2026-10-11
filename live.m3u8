@@ -1,1 +1,47 @@
+#EXTM3U
+# ==============================================================================
+# PLAYLIST: Home Air TV
+# POWERED BY: Home Air TV
+# LAST UPDATED: FRIDAY, OCTOBAR 03, 2026 at 2:30 PM
+#
+# LEGAL DISCLAIMER & TERMS OF USE:
+# ------------------------------------------------------------------------------
+# 1. NON-AFFILIATION & CONTENT HOSTING:
+#    Home Air TV does not stream, broadcast, host, archive, store, or re-transmit
+#    any media files or video streams. All stream URLs and metadata indexed herein
+#    are freely available and collected from public, third-party, and open-source
+#    web platforms. Home Air TV maintains no control over external media servers.
+# 2. STATUTORY SAFE HARBOR & INTERMEDIARY IMMUNITY:
+#    Home Air TV functions strictly as an information location tool, directory,
+#    and content indexer under applicable safe harbor frameworks:
+#    - United States: Title II of the DMCA (17 U.S.C. § 512(c) / § 512(d))
+#    - European Union: Articles 12–14 of Directive 2000/31/EC (e-Commerce Directive)
+#      and Regulation (EU) 2022/2065 (Digital Services Act - Intermediary Liability)
+#    - International Norms: WIPO Copyright Treaty (WCT) and the Berne Convention
+#    Home Air TV bears no direct, vicarious, or contributory liability for the
+#    availability, legality, copyright compliance, decency, or accuracy of any
+#    content delivered by external sources.
+# 3. END-USER RESPONSIBILITY & STATUTORY COMPLIANCE:
+#    Users accessing this playlist are exclusively responsible for verifying and
+#    complying with all applicable local, regional, national, and international laws,
+#    telecommunications regulations, and intellectual property rights in their
+#    respective jurisdictions. Any unauthorized access, redistribution, or breach
+#    of local laws is solely the legal responsibility of the end user.
+# 4. DMCA TAKEDOWN & INTELLECTUAL PROPERTY NOTICE:
+#    All trademarks, service marks, trade names, logos, and digital stream feeds
+#    belong strictly to their respective owners and broadcasters. As an indexer,
+#    Home Air TV cannot disable content hosted on third-party servers. Rights
+#    holders requesting removal of specific pointer links from this index under
+#    formal 17 U.S.C. § 512(c)(3) notification procedures may submit verifiable
+#    takedown notices directly to the administrator for prompt deletion.
+# ===============================
+# Group: Random
 
+
+# ==================== Sports ====================
+
+#EXTINF:-1 tvg-name="HOME AIR" tvg-logo="https://raw.githubusercontent.com/nexus-appshub/homeairtv.xyz/main/Logos/image.png" group-title="Family",HOME AIR
+https://cdn.xubilaswebdevcorp.shop/jem/a1/gemini_generated_video_70ad153e.mp4
+#EXTINF:-1 group-title="Family" tvg-logo="https://cdn.xubilaswebdevcorp.shop/uploads/1791021130497-41-d382558b-2f5d-44c1-af0e-651a2ea928ba-1.png", Homair TV
+#EXTVLCOPT:http-referrer=https://toffeelive.com/
+https://media.hmair.xyz/api/play/Toffee%20TV.m3u8
